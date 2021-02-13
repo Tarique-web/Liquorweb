@@ -42,8 +42,8 @@
 }
 
 .address_text{
-    font-family: Product-Sans-regular;
-    font-size:1.2rem;
+   font-family: Product-Sans-regular;
+    font-size:0.9375vw;
     color: #333333;
 }
 
@@ -230,4 +230,12 @@
 
 .rating_text{
     font-size: .8rem;
+}
+.footer_bottom{
+    background-color: #EFF5FF;
+}
+.footer_text{
+    font-family: Product-Sans-regular;
+    color: #333333;
+    font-size: 1rem;
 }
