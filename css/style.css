@@ -25,19 +25,8 @@
     width: 7.7604vw;;
     height: 3rem;
 }
-.maps_logo{
-    height: 1rem;
-    width:0.8109375vw;
-}
-.input-box{
-    border: none;
-    outline: none;
-    width: 26.0417vw;;
-    height: 1rem;
-    background: #FBFBFB 0% 0% no-repeat padding-box;
-    border-radius: 4px;
-    
-}
+
+
 .profile_img{
     width:2.2916666666666665vw;
     height: 2.2917vw;;
@@ -54,10 +43,8 @@
 
 .address_text{
     font-family: Product-Sans-regular;
-    font-size:0.9375vw;
+    font-size:1.2rem;
     color: #333333;
-    text-transform: capitalize; 
-
 }
 
 
@@ -153,7 +140,7 @@
 }
 
 .stores_near_min_order{
-    font-family: product-sans-regular;
+    font-family: Product-Sans-regular;
     color: #5E6696;
     font-size: .8rem;
 }
@@ -166,7 +153,6 @@
 }
 
 .exclusive_off{
-    color: var(--unnamed-color-ffcd00);
     text-align: right;
     font-size:  1.5625vw;
     font-family: Product-Sans-regular;
@@ -190,8 +176,8 @@
     font-size:3.125vw;
 }
 .playstore_icon_img{
-    width: 20rem;
-    height: 2.5rem;
+    width: 20.833333333333336vw;
+    height:2.9166666666666665vw;
 }
 .quality_section_txt{
     font-family: Product-sans-bold;
@@ -243,3 +229,6 @@
     height:1rem;
 }
 
+.rating_text{
+    font-size: .8rem;
+}
