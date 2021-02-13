@@ -1,0 +1,245 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+  
+}
+@font-face{
+    src: url(/fonts/product-sans/Product\ Sans\ Regular.ttf);
+    font-family: Product-Sans-regular;
+}
+@font-face{
+    src: url(/fonts/product-sans/Product\ Sans\ Bold.woff);
+    font-family: Product-sans-bold;
+}
+@font-face{
+    src: url(/fonts/Poppins-font/Poppins-Light.ttf);
+    font-family: Poppins, Light;
+}
+@font-face{
+    src: url(/fonts/Poppins-font/Poppins-Bold.ttf);
+    font-family: Poppins-bold;
+}
+.roadyo-img-logo{
+    width: 7.7604vw;;
+    height: 3rem;
+}
+.maps_logo{
+    height: 1rem;
+    width:0.8109375vw;
+}
+.input-box{
+    border: none;
+    outline: none;
+    width: 26.0417vw;;
+    height: 1rem;
+    background: #FBFBFB 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    
+}
+.profile_img{
+    width:2.2916666666666665vw;
+    height: 2.2917vw;;
+    border-radius: 2rem;
+}
+.English_text{
+    color: #333333;
+    font-size: 1.0416666666666665vw;
+}
+.basket-icon{
+    width: 1.7708333333333333vw;
+    height: 1.8rem;
+}
+
+.address_text{
+    font-family: Product-Sans-regular;
+    font-size:0.9375vw;
+    color: #333333;
+    text-transform: capitalize; 
+
+}
+
+
+.wine__cate__img{
+    width: 8.666666rem;
+    height:8.666666rem;
+}
+
+.wine_name_text{
+    align-items: center;
+    letter-spacing: 0px;
+    color: #58595B;
+    font-size: 1.5333rem;
+}
+
+.items_info{
+
+    font: normal normal 2.604166666666667vw Product Sans;
+    color: #000000;
+    opacity: 0.9;
+}
+
+.banner-section{
+    background-image: url('/icons/main-logo-wine-top.png');
+    height: 34.33336rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.order_now{
+    background: #FFCD00;
+    border-radius: 5px;
+    width:12.533rem;
+    height: 3.2666rem;
+    color: #541871;
+    
+}
+
+.shop_alcohal_text{
+    font-size: 4.166666666666666vw;
+    font-family: Poppins, Light;
+}
+.off_text
+{
+    font-family: Poppins-bold;
+    font-size:5.208333333333334vw;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+
+}
+.our-container{
+    width:81rem;
+
+}
+.Categories_overflow::-webkit-scrollbar{
+    display: none;
+}
+.view__button{
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    
+}
+.card{
+   
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 30px #00000026;
+    border: 1px solid #D8D8D8;
+    
+
+}
+.alcohal_text_card{
+   
+    font: normal normal bold 1.5rem Product Sans;
+    color: #242A4B;
+    
+}
+.text_info{
+
+    font: normal normal normal 1rem Product Sans;
+    color: #7D7D7D;
+    
+}
+
+.rating_star_img{
+    width: .733333rem;
+    height: .66666rem;
+}
+.stores_near_dis_text{
+    font-size:.9rem;
+    color: #5E6696;
+ 
+}
+
+.stores_near_min_order{
+    font-family: product-sans-regular;
+    color: #5E6696;
+    font-size: .8rem;
+}
+
+.shop_now_btn{
+    float: right;
+    background: #FFFFFF00;
+    border: 1px solid #FFFFFF;
+    border-radius: 2px;
+}
+
+.exclusive_off{
+    color: var(--unnamed-color-ffcd00);
+    text-align: right;
+    font-size:  1.5625vw;
+    font-family: Product-Sans-regular;
+    color: #FFCD00;
+    text-shadow: 0px 3px 6px #00000029;
+}
+
+.exclusive_offer_text{
+    text-align: right;
+    font: normal normal bold 2.3958333333333335vw Product Sans;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-shadow: 0px 3px 6px #00000029;
+}
+.order_food_icon{
+    width: 29.114583333333332vw;
+    height: 25rem;
+}
+.service_pocket_text{
+    font-family: Poppins-bold;
+    font-size:3.125vw;
+}
+.playstore_icon_img{
+    width: 20rem;
+    height: 2.5rem;
+}
+.quality_section_txt{
+    font-family: Product-sans-bold;
+    font-size: 1.4rem;
+    color: #000000;
+}
+
+.quality_section_info{
+    background-color:#F7FAFF;
+}
+.pocket_service_text{
+    font-family: Product-Sans-regular;
+    color: #555555;
+    font-size: 1rem;
+}
+.we-deliver-text{
+    font-family: Product-sans-bold;
+    color: #000000;
+    opacity: 0.9;
+    font-size: 2rem;
+}
+.we_deliver_cites_sec{
+    font-family: Product-Sans-regular;
+    color: #000000;
+    font-size: .9rem;
+}
+.footer_section{
+    background-color: #F7FAFF;   
+}
+.footer_section_info_text{
+    font-family: Product-sans-bold;
+    font-size: 1rem;
+}
+.footer_appstore_img{
+    width: 14.895833333333334vw;
+    height: 2.4rem;
+}
+
+.about_us_text{
+    text-decoration: underline;
+    color: #541871;
+}
+.social_link_icon img{
+    width: 1.6947916666666667vw;
+    height:2rem;
+}
+.translate_icon_img{
+    width: 0.8947916666666667vw;
+    height:1rem;
+}
+

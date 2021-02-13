@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.955" height="32.955" viewBox="0 0 32.955 32.955">
+  <g id="linkedin" opacity="0.5">
+    <path id="Path_70252" data-name="Path 70252" d="M28.127,0H4.827A4.885,4.885,0,0,0,0,4.892V28.127a4.829,4.829,0,0,0,4.827,4.827h23.3a4.829,4.829,0,0,0,4.827-4.827V4.892A4.885,4.885,0,0,0,28.127,0Zm0,0" transform="translate(0 0)" fill="#9faab7"/>
+    <g id="Group_26599" data-name="Group 26599" transform="translate(7.788 6.823)">
+      <path id="Path_70254" data-name="Path 70254" d="M121,196h3.862v13.581H121Zm0,0" transform="translate(-121 -190.207)" fill="#fff"/>
+      <path id="Path_70255" data-name="Path 70255" d="M121,106h3.862v3.862H121Zm0,0" transform="translate(-121 -106)" fill="#fff"/>
+      <path id="Path_70256" data-name="Path 70256" d="M222.586,201.136v8.445h-3.862v-7.788a1.931,1.931,0,1,0-3.862,0v7.788H211V196h3.862v.734a8,8,0,0,1,2.9-.734A5.052,5.052,0,0,1,222.586,201.136Zm0,0" transform="translate(-205.207 -190.207)" fill="#fff"/>
+    </g>
+    <path id="Path_70257" data-name="Path 70257" d="M264.689,201.136v8.445h-3.862v-7.788a1.931,1.931,0,1,0-3.862,0v7.788H256V196h.965v.734a8,8,0,0,1,2.9-.734A5.052,5.052,0,0,1,264.689,201.136Zm0,0" transform="translate(-239.523 -183.385)" fill="#fff"/>
+  </g>
+</svg>
