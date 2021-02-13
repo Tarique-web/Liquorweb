@@ -69,11 +69,10 @@
 
 .banner-section{
     background-image: url('/icons/main-logo-wine-top.png');
-    height: 34.33336rem;
+    height:50%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100%;
 }
 .order_now{
     background: #FFCD00;
