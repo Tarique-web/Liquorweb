@@ -26,7 +26,6 @@
     height: 3rem;
 }
 
-
 .profile_img{
     width:2.2916666666666665vw;
     height: 2.2917vw;;
@@ -34,19 +33,49 @@
 }
 .English_text{
     color: #333333;
-    font-size: 1.0416666666666665vw;
+    font: 1.0416666666666665vw;
+    font-family:Product-sans-bold;
 }
 .basket-icon{
     width: 1.7708333333333333vw;
     height: 1.8rem;
 }
-
+.translate_icon_img{
+    width: 0.894vw;
+    height:1rem;
+}
 .address_text{
    font-family: Product-Sans-regular;
     font-size:0.9375vw;
     color: #333333;
 }
-
+.address_text_togle{
+    font-family: Product-Sans-regular;
+    font-size:2vw;
+    color: #333333;
+}
+.maps_logo_mobile_view{
+    width: 2vw;
+    height: 2vw;
+}
+.basket-icon_mobile_view{
+    width: 4vw;
+    height: 3.5vw;
+}
+.profile_img_mobile_view{
+    width: 4vw;
+    height: 3.5vw;
+    border-radius:1.6667vw;
+}
+.English_text_mobile_view{
+    font:1.04166vw;
+    font-family: Product-sans-bold;
+    color: #333333;
+}
+.translate_icon_img_mobile_view{
+    width: 3vw;
+    height:2vw;
+}
 
 .wine__cate__img{
     width: 8.666666rem;
@@ -80,7 +109,6 @@
     width:12.533rem;
     height: 3.2666rem;
     color: #541871;
-    
 }
 
 .shop_alcohal_text{
@@ -112,20 +140,16 @@
     background: #FFFFFF 0% 0% no-repeat padding-box;
     box-shadow: 0px 10px 30px #00000026;
     border: 1px solid #D8D8D8;
-    
-
 }
 .alcohal_text_card{
    
     font: normal normal bold 1.5rem Product Sans;
     color: #242A4B;
-    
 }
 .text_info{
 
     font: normal normal normal 1rem Product Sans;
-    color: #7D7D7D;
-    
+    color: #7D7D7D; 
 }
 
 .rating_star_img{
@@ -167,16 +191,15 @@
     text-shadow: 0px 3px 6px #00000029;
 }
 .order_food_icon{
-    width: 29.114583333333332vw;
-    height: 25rem;
+    width: 20vw;
+    height: 27vw;
 }
 .service_pocket_text{
     font-family: Poppins-bold;
     font-size:3.125vw;
 }
 .playstore_icon_img{
-    width: 20.833333333333336vw;
-    height:2.9166666666666665vw;
+    width: 13vw; 
 }
 .quality_section_txt{
     font-family: Product-sans-bold;
@@ -188,9 +211,8 @@
     background-color:#F7FAFF;
 }
 .pocket_service_text{
-    font-family: Product-Sans-regular;
     color: #555555;
-    font-size: 1rem;
+    font:1rem Product-Sans-regular;
 }
 .we-deliver-text{
     font-family: Product-sans-bold;
@@ -211,8 +233,7 @@
     font-size: 1rem;
 }
 .footer_appstore_img{
-    width: 14.895833333333334vw;
-    height: 2.4rem;
+    width: 11vw;
 }
 
 .about_us_text{
@@ -222,10 +243,6 @@
 .social_link_icon img{
     width: 1.6947916666666667vw;
     height:2rem;
-}
-.translate_icon_img{
-    width: 0.8947916666666667vw;
-    height:1rem;
 }
 
 .rating_text{
