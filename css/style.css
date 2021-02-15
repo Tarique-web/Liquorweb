@@ -115,9 +115,10 @@
 .order_now{
     background: #FFCD00;
     border-radius: 5px;
-    width:12.533rem;
-    height: 3.2666rem;
+    width: 12.533vw;
+    height: 3.333vw;
     color: #541871;
+    font-size: 1.145vw;
 }
 
 .shop_alcohal_text{
