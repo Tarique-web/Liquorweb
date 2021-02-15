@@ -142,6 +142,7 @@
 .view__button{
     background: #F5F5F5 0% 0% no-repeat padding-box;
     border-radius: 5px; 
+    font-size: 0.9375vw;
 }
 .card{
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -200,7 +201,6 @@
 
 .service_pocket_text{
     font-family: Poppins-bold;
-    font-size:3.125vw;
 }
 .playstore_icon_img{
     width: 13vw; 
