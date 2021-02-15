@@ -27,9 +27,8 @@
 }
 
 .profile_img{
-    width:2.2916666666666665vw;
-    height: 2.2917vw;;
-    border-radius: 2rem;
+    width:1.302083335vw;
+    height: 1.61453335vw;
 }
 .English_text{
     color: #333333;
@@ -74,7 +73,6 @@
 .profile_img_mobile_view{
     width: 4vw;
     height: 3.5vw;
-    border-radius:1.6667vw;
 }
 .English_text_mobile_view{
     font:1.04166vw;
