@@ -40,6 +40,15 @@
     width: 1.7708333333333333vw;
     height: 1.8rem;
 }
+.cart_prod_num{
+    width: .9rem;
+    height: .9rem;
+    background-color: #FFE000;
+    font-size: 0.6rem;
+    text-align: center;
+    top: 0;
+    right: 0;
+}
 .translate_icon_img{
     width: 0.894vw;
     height:1rem;
@@ -118,10 +127,9 @@
 .off_text
 {
     font-family: Poppins-bold;
-    font-size:5.208333333333334vw;
+    font-size:5.20833334vw;
     letter-spacing: 2px;
     text-transform: capitalize;
-
 }
 .our-container{
     width:81rem;
@@ -132,11 +140,9 @@
 }
 .view__button{
     background: #F5F5F5 0% 0% no-repeat padding-box;
-    border-radius: 5px;
-    
+    border-radius: 5px; 
 }
 .card{
-   
     background: #FFFFFF 0% 0% no-repeat padding-box;
     box-shadow: 0px 10px 30px #00000026;
     border: 1px solid #D8D8D8;
@@ -206,14 +212,17 @@
     font-size: 1.4rem;
     color: #000000;
 }
+.pocket_service_text{
+    color: #555555;
+    font-family:Product-Sans-regular;
+    font-size: 1.1rem;
+    line-height: normal;
+}
 
 .quality_section_info{
     background-color:#F7FAFF;
 }
-.pocket_service_text{
-    color: #555555;
-    font:1rem Product-Sans-regular;
-}
+
 .we-deliver-text{
     font-family: Product-sans-bold;
     color: #000000;
